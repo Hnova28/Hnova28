@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Neyama Haque Nova</h1>
 <video width="500" controls>
-  <source src="cherry.mp4" type="video/mp4">
+  <source src="cherry.mp4" type="video/mp4" >
   Your browser does not support the video tag.
 </video>
 
