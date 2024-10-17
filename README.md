@@ -1,12 +1,13 @@
 <h1 align="center">Hi 👋, I'm Neyama Haque Nova</h1>
-<video width="500" controls>
-  <source src="cherry.mp4" type="video/mp4" >
-  Your browser does not support the video tag.
-</video>
 
+<h1 align="center"><a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com/?lines=Just+as+the+tree+sheds+its+blossoms;we+too,+must+learn+to+release;what+no+longer+serves+us;fear,+regret,+and+doubt.;Only+then+can+we+make+room+for;new+growth,+new+opportunities;to+bloom+again." alt="Typing SVG" /></a></h1>
+  
 <p align="center">
-  <img alt="Coding" width="500" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHQwMnlrb3BhNm9mdmJ3dm84cXp6bjB1d2d3eWk2ZmozeTQ5cDJxcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/V1ZLZNtPzSJXy/giphy.webp">
+<img alt="Coding" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHQwMnlrb3BhNm9mdmJ3dm84cXp6bjB1d2d3eWk2ZmozeTQ5cDJxcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/V1ZLZNtPzSJXy/giphy.webp">
 </p>
+
+
 
 - 💬 Ask me about **MEARN**
 
