@@ -9,7 +9,7 @@
 
 
 
-- 💬 Ask me about **MEARN**
+- 💬 Ask me about **Analytical Question**
 
 - ⚡ Fun fact **I think I bit much crazy about slow learning**
 
